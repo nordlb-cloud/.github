@@ -17,4 +17,7 @@ TEXT
 
 ## Tests
 
-[ ] Änderungen wurden im iLab verprobt
+- [ ] Änderungen wurden im iLab verprobt
+- [ ] Tests enfallen
+
+

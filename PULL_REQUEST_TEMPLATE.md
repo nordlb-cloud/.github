@@ -2,7 +2,7 @@
 
 | Komponente | Type | Update | Change |
 |---|---|---|---|
-| NAME | ORG, CLUSTER, PROJECT, SCHEMAS, SERVICES | MINOR, MAJOR, Onboarding | KURZBESCHREIBUNG |
+| NAME | ORG, CLUSTER, PROJECT, SCHEMAS, SERVICES, INFRA, OTHER | MINOR, MAJOR, ONBAORDING | KURZBESCHREIBUNG |
 
 ---
 
@@ -10,14 +10,13 @@
 
 TEXT
 
-## Issue / Changerequest
+## Issue / Changerequest / Incident
 
 
 ---
 
-## Tests
+## Checks
 
 - [ ] Änderungen wurden im iLab verprobt
-- [ ] Tests enfallen
-
-
+- [ ] Es handelt sich um ein Test-Deployment im iLab
+- [ ] Die Dokumentation wurde angepasst
